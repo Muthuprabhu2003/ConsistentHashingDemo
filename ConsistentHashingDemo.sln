@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsistentHashingDemo.Tests", "ConsistentHashingDemo.Tests\ConsistentHashingDemo.Tests.csproj", "{11D77DB8-B740-46FE-A040-E2AEC0CFAEC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsistentHashingDemo", "ConsistentHashingDemo\ConsistentHashingDemo.csproj", "{DC19FE2A-3562-4204-AE66-8BD402F3D628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D77DB8-B740-46FE-A040-E2AEC0CFAEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D77DB8-B740-46FE-A040-E2AEC0CFAEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D77DB8-B740-46FE-A040-E2AEC0CFAEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D77DB8-B740-46FE-A040-E2AEC0CFAEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC19FE2A-3562-4204-AE66-8BD402F3D628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC19FE2A-3562-4204-AE66-8BD402F3D628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC19FE2A-3562-4204-AE66-8BD402F3D628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC19FE2A-3562-4204-AE66-8BD402F3D628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
